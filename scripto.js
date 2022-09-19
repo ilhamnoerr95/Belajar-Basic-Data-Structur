@@ -27,5 +27,3 @@ type: 'Food'
 const simpleFungsi = ()=>{
         if(listItemBelanja['food']) 
 }
-
-console.log("")
